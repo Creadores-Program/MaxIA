@@ -1,10 +1,10 @@
 [
   "hola!",
-  "hola bot",
+  "holabot",
   "hola",
   "¡hola!",
-  "hola bot!",
-  "¡hola bot!",
+  "holabot!",
+  "¡holabot!",
   "¡hola",
   "!hola!",
   "¡hola¡",
@@ -25,5 +25,13 @@
   "queonda",
   "hola😃",
   "hola!😃",
-  "queonda😎"
+  "queonda😎",
+  "hola!👋",
+  "hola👋",
+  "!hola👋",
+  "¡hola👋",
+  "¡hola!👋",
+  "¡hola👋!",
+  "!hola👋!",
+  "!hola!👋"
 ];
