@@ -9,15 +9,4 @@
   "buenas",
   "hey",
   "queonda",
-  "hola😃",
-  "hola!😃",
-  "queonda😎",
-  "hola!👋",
-  "hola👋",
-  "!hola👋",
-  "¡hola👋",
-  "¡hola!👋",
-  "¡hola👋!",
-  "!hola👋!",
-  "!hola!👋"
 ];
