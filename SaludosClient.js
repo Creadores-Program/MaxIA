@@ -1,12 +1,16 @@
 [
   "hola",
   "holabot",
-  "hola.",
-  ".hola",
   "holis",
   "holi",
   "holaxd",
   "buenas",
   "hey",
   "queonda",
+  "holaaa",
+  "ola",
+  "quepaso",
+  "holacreabot",
+  "holacrea",
+  "holacreabotcp"
 ];
