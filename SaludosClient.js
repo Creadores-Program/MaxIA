@@ -1,5 +1,7 @@
 [
   "hola",
+  "hi",
+  "hello",
   "holabot",
   "holis",
   "holi",
