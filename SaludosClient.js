@@ -10,6 +10,7 @@
   "holaaa",
   "ola",
   "quepaso",
+  "holabuenas",
   "holacreabot",
   "holacrea",
   "holacreabotcp"
