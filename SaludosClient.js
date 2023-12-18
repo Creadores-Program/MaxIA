@@ -1,5 +1,6 @@
 [
   "hola",
+  "hey hola",
   "hi",
   "hello",
   "holabot",
