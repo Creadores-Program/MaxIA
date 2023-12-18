@@ -9,6 +9,7 @@
   "queonda",
   "holaaa",
   "ola",
+  "buenas",
   "quepaso",
   "holabuenas",
   "holacreabot",
