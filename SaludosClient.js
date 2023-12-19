@@ -3,7 +3,7 @@
   "heyhola",
   "heyholabot",
   "heyholaxd",
-  "heyholi"
+  "heyholi",
   "hi",
   "hello",
   "holabot",
