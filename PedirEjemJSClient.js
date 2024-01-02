@@ -1,5 +1,12 @@
 [
   "dameunejemplodejavascript",
   "dimeunejemplodejavascript",
-  "mepuedesdecirunejemplodejavascript"
+  "mepuedesdecirunejemplodejavascript",
+  "dimeunejemplodecodigojavascript",
+  "mepuedesdecirunejemplodecodigojavascript",
+  "dimeunejemplodejs",
+  "dameunejemplodejs",
+  "mepuedesdecirunejemplodejs",
+  "mepuedesdecirunejemplodecodigojs",
+  "dimeuncodedejs"
 ];
