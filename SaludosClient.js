@@ -23,5 +23,6 @@
   "holabuenas",
   "holacreabot",
   "holacrea",
-  "holacreabotcp"
+  "holacreabotcp",
+  "holacomoteva"
 ];
