@@ -12,5 +12,13 @@
   "pene",
   "culo",
   "nalgas",
-  "🖕"
+  "🖕",
+  "fucking",
+  "moron",
+  "stupid",
+  "cock",
+  "shit",
+  "penis",
+  "ass",
+  "buttocks"
 ];
