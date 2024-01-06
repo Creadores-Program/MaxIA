@@ -1,0 +1,16 @@
+[
+  "puto",
+  "poto",
+  "idiota",
+  "wey",
+  "pend",
+  "hdp",
+  "benga",
+  "verga",
+  "mierd",
+  "🤬",
+  "pene",
+  "culo",
+  "nalgas",
+  "🖕"
+];
