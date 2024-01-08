@@ -30,5 +30,6 @@
   "shit",
   "penis",
   "ass",
-  "buttocks"
+  "buttocks",
+  "ano"
 ];
