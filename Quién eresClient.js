@@ -1,0 +1,12 @@
+[
+  "quieneres",
+  "quiensos",
+  "queeres",
+  "quieneresbot",
+  "quensosbot",
+  "queeresbot",
+  "botquieneres",
+  "botqueeres",
+  "botquiensos",
+  "quecosaeres"
+];
