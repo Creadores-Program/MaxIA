@@ -8,5 +8,7 @@
   "botquieneres",
   "botqueeres",
   "botquiensos",
-  "quecosaeres"
+  "quecosaeres",
+  "queerestu",
+  "queeres"
 ];
