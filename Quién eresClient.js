@@ -11,5 +11,6 @@
   "quecosaeres",
   "queerestu",
   "queeres",
-  "quienestucreador"
+  "quienestucreador",
+  "quientecreo"
 ];
