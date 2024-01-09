@@ -24,5 +24,6 @@
   "holacreabot",
   "holacrea",
   "holacreabotcp",
-  "holacomoteva"
+  "holacomoteva",
+  "xdhola"
 ];
