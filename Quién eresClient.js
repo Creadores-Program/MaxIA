@@ -10,5 +10,6 @@
   "botquiensos",
   "quecosaeres",
   "queerestu",
-  "queeres"
+  "queeres",
+  "quienestucreador"
 ];
