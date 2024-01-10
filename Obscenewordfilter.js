@@ -1,5 +1,12 @@
 [
   "puto",
+  "pu**",
+  "p*to",
+  "*uto",
+  "put0",
+  "*ut0",
+  "p*t0",
+  "put*",
   "poto",
   "idiota",
   "wey",
