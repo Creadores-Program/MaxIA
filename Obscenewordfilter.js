@@ -8,6 +8,7 @@
   "p*t0",
   "put*",
   "poto",
+  "pito",
   "idiota",
   "wey",
   "pend",
