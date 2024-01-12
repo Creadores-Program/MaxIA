@@ -13,5 +13,6 @@
   "queeres",
   "quienestucreador",
   "quientecreo",
-  "quientehizo"
+  "quientehizo",
+  "quienfuetucreador"
 ];
