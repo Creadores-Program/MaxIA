@@ -13,6 +13,8 @@
   "wey",
   "pend",
   "hdp",
+  "porno",
+  "prno",
   "baboso",
   "babosa",
   "perra",
