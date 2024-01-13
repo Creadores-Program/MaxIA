@@ -1,6 +1,7 @@
 [
   "puto",
   "pu**",
+  "sexx",
   "p*to",
   "*uto",
   "put0",
