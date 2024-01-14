@@ -8,5 +8,6 @@
   "dameunejemplodejs",
   "mepuedesdecirunejemplodejs",
   "mepuedesdecirunejemplodecodigojs",
-  "dimeuncodedejs"
+  "dimeuncodedejs",
+  "puedesprogramarunejemplodecodigojavascript"
 ];
