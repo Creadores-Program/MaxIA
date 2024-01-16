@@ -14,5 +14,6 @@
   "quienestucreador",
   "quientecreo",
   "quientehizo",
-  "quienfuetucreador"
+  "quienfuetucreador",
+  "cualestunombre"
 ];
